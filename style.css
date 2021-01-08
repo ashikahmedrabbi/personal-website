@@ -1,28 +1,60 @@
 body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0px;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .hello{
-    color: rgb(61,61,107);
+    color: #363958;
+    display: inline;
 }
 .name{
-    color: tomato;
+    color:#F46060;
+    display: inline;
+    padding-top: -15px;
    
     
 }
 .about{
-    color: rgb(61,61,107);
-    font-weight: 700;
-    font-size: 35px;
+    color:#363958;
+    font-weight: 400;
+    font-size: 48px;
+    display: inline;
 }
 p{
-    color: rgb(46, 45, 45);
+    color:#363958 ;
+    font-family: 'Roboto', sans-serif;
+    padding-top: -25px;
     
 }
 h1{
     font-size: 60px;
-    font-weight: 600;
+    font-weight: 400;
+    display: inline;
     
+}
+h2{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+
+}
+h3{
+    font-size: 30px;
+    font-weight: 400;
+    color:#363958 ;
+    font-family: 'Roboto', sans-serif;
+
+}
+h4{
+    color:dimgray;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.lastet{
+    color:#F46060;
+}
+.work{
+    color: #363958;
 }
     
 .half-width{
@@ -38,6 +70,8 @@ h1{
     padding: 15px 25px;
     border-radius: 4px;
     font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    
 }
 .half-width img{
     width: 90%;
@@ -45,7 +79,74 @@ h1{
 section{
     height: 500px;
     padding-bottom: 150px;
+    
 }
-h4{
-    text-align: center;
+#bg{
+    background-color:#F8F9FC;
 }
+.lastes-work{
+    
+    margin: 50px 100px;  
+}
+
+.lastes{
+    
+    padding-top: 40px;
+    padding-bottom: 20px;
+   
+}
+.lastes-work-imges{
+    width: 30%;
+    margin: 2px 4px;
+    padding: 10px;
+    float: left;
+    box-shadow: 5px 5px 60px grey;
+    border-radius: 15px;
+    height: 70%;
+    background-color: white;
+}
+.lastes-work-imges img{
+    width: 90%;
+    height: 50%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px; 
+}
+#power-x{
+    font-size: 25px;
+    font-weight: 500;
+}
+.blue-image{
+    
+     background-image: url(images/u2.png); 
+     background-size: 80%;
+     background-repeat: no-repeat;
+     margin: 60px 60px 60px 248px;
+     
+        
+}
+.work-inquiry{
+    margin: 75px 50px;
+    float: left;
+    color: white;
+}
+.let-chat{
+    margin: 105px 260px;
+}
+.hello-design{
+    margin: 50px 300px;
+    
+    
+}
+#STAY-CONNECTED{
+    margin-left: 35px;
+}
+.icon{
+    
+    margin-left: 40px;
+    margin-top:-20px ;
+}
+.icon img{
+    width: 40px;
+    padding: 5px;
+}
+
